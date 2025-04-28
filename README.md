@@ -37,7 +37,7 @@ This data forms the basis for building forecasting models and optimizing invento
 - **Python 3.x**
 - **Pandas**: Data manipulation
 - **NumPy**: Numerical calculations
-- **Matplotlib** / **Seaborn**: Data visualization
+- **Matplotlib**: Data visualization
 - **Statsmodels**: SARIMA modeling
 - **Scikit-learn**: Model validation and evaluation
 
